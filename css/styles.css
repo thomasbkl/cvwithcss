@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.btn {
+background-color: #11999E;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+border-radius: 4px;
+margin-bottom: 20px;
+}
+
+hr {
+  width: 5%;
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: lightgrey;
+}
+
+.cvimg {
+  margin-top: 30px;
+  width: 10%;
+  height: 10%;
+}
+
+.mydescription {
+  margin-bottom: 50px;
+}
+
+.skillimg1 {
+  width: 20%;
+  height: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skillimg2 {
+  width: 15%;
+  height: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: #E3FDFD;
+  padding-top: 100px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 80px;
+  right: 30%;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.skill-row {
+  margin: 50px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 12px;
+}
+
+.undertext {
+  text-decoration: underline;
+}
